@@ -10,3 +10,4 @@ disk-image/spec-2017/cpu2017-1.1.0.iso
 gem5
 vmlinux-4.19.83
 db
+db/journal/WiredTigerLog.0000000001
