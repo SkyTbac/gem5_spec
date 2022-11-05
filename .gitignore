@@ -1,0 +1,11 @@
+*.pyc
+m5out
+.vscode
+results
+gem5art-env
+disk-image/packer
+disk-image/packer_cache
+disk-image/spec-2017/spec-2017-image/spec-2017
+disk-image/spec-2017/cpu2017-1.1.0.iso
+gem5
+vmlinux-4.19.83
