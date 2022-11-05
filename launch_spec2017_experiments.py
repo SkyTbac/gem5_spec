@@ -15,7 +15,7 @@ experiments_repo = Artifact.registerArtifact(
         git checkout 1fe56ffc94005b7fa0ae5634c6edc5e2cb0b7357
         cd src/spec-2017
         git init
-        git remote add origin https://remote-address/spec-experiment.git
+        git remote add origin https://github.com/SkyTbac/gem5_spec.git
     ''',
     typ = 'git repo',
     name = 'spec2017 Experiment',
