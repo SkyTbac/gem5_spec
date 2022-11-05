@@ -9,3 +9,8 @@ disk-image/spec-2017/spec-2017-image/spec-2017
 disk-image/spec-2017/cpu2017-1.1.0.iso
 gem5
 vmlinux-4.19.83
+db/WiredTiger.turtle
+db/WiredTiger.wt
+db/diagnostic.data/metrics.2022-11-05T04-04-13Z-00000
+db/diagnostic.data/metrics.interim
+db/journal/WiredTigerLog.0000000001
